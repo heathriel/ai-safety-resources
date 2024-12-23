@@ -4,7 +4,7 @@
 
 - **Description**: A comprehensive framework by the National Institute of Standards and Technology (NIST) providing guidelines for managing risks associated with AI systems.
 
-- **Link**: [NIST AI RMF](https://www.nist.gov/document/ai-risk-management-framework)
+- **Link**: [NIST AI RMF](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)
 
 ## 2. UNESCO Recommendation on the Ethics of Artificial Intelligence
 
