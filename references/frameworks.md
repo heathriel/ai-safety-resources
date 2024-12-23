@@ -8,7 +8,7 @@
 
 ### 2. NIST AI Risk Management Framework
 - **Description**: A framework by NIST to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems.
-- **Link**: [NIST AI RMF](https://www.nist.gov/document/ai-risk-management-framework)
+- **Link**: [NIST AI RMF](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)
 
 ---
 
