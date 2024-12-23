@@ -27,56 +27,20 @@
 - **[The Gradient](https://thegradient.pub/newsletter/)**  
   A newsletter offering in-depth analyses and discussions on AI research, ethics, and policy.
 
-- **[AI Ethics Newsletter](https://www.linkedin.com/newsletters/ai-ethics-newsletter-6868151748499007488/)**  
+- **[AI Ethics Newsletter](https://abhishekgupta.substack.com/about)**  
   Curated by Abhishek Gupta, this newsletter covers the latest in AI ethics, governance, and responsible AI development.
 
-- **[AI Alignment Newsletter](https://www.alignmentforum.org/alignment-newsletter)**  
-  Summarizes recent content relevant to AI alignment, including technical research and policy discussions.
-
-- **[AI Safety Support Newsletter](https://www.aisafetysupport.org/newsletter)**  
-  Provides updates and resources for individuals interested in contributing to AI safety efforts.
-
-- **[AI Safety Camp Newsletter](https://aisafety.camp/newsletter/)**  
-  Updates and information about AI Safety Camp events, projects, and community activities.
-
-- **[AI Governance Newsletter](https://www.governance.ai/newsletter)**  
+- **[AI Governance Newsletter](https://www.governance.ai/blog)**  
   Focuses on AI governance issues, including policy developments, research, and international cooperation.
-
-- **[AI Safety Research Newsletter](https://www.aisafetyresearch.org/newsletter)**  
-  Highlights recent AI safety research papers, discussions, and events.
 
 - **[AI Alignment Forum Digest](https://www.alignmentforum.org/)**  
   A digest of discussions and posts from the AI Alignment Forum, covering various topics in AI alignment and safety.
 
-- **[AI Safety Updates](https://www.aisafetyupdates.org/)**  
-  Regular updates on AI safety research, events, and opportunities.
-
-- **[AI Ethics Weekly](https://aiethicsweekly.substack.com/)**  
+- **[Montreal Ethics Brief](https://brief.montrealethics.ai/)**  
   Weekly insights into AI ethics, including news, research, and opinion pieces.
-
-- **[AI Safety News Digest](https://aisafetynews.substack.com/)**  
-  A digest of the latest news and developments in AI safety.
-
-- **[AI Policy Newsletter](https://www.aipolicynewsletter.org/)**  
-  Covers global AI policy developments, regulatory news, and governance discussions.
 
 - **[AI Safety Community Newsletter](https://www.aisafety.community/newsletter)**  
   Updates from the AI safety community, including events, projects, and collaboration opportunities.
-
-- **[AI Safety Research Digest](https://aisafetydigest.org/)**  
-  Summarizes recent AI safety research publications and findings.
-
-- **[AI Safety Bulletin](https://aisafetybulletin.substack.com/)**  
-  Periodic bulletins on AI safety topics, including research, policy, and community news.
-
-- **[AI Safety Watch](https://aisafetywatch.org/)**  
-  Monitors and reports on AI safety incidents, research, and policy changes.
-
-- **[AI Safety Insights](https://aisafetyinsights.substack.com/)**  
-  Provides insights and analyses on AI safety challenges and solutions.
-
-- **[AI Safety Review](https://aisafetyreview.org/)**  
-  Reviews and critiques AI safety research and policy proposals.
 
 - **[AI Safety Monitor](https://aisafetymonitor.org/)**  
   Tracks developments in AI safety, including research breakthroughs and policy initiatives.
