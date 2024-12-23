@@ -16,7 +16,7 @@
 
 - **Description**: The U.S. Department of Defense's principles outlining the ethical use of AI in defense applications.
 
-- **Link**: [DoD AI Ethical Principles](https://media.defense.gov/2020/Feb/24/2002252837/-1/-1/0/DOD-AI-ETHICAL-PRINCIPLES.PDF)
+- **Link**: [DoD AI Ethical Principles](https://media.defense.gov/2019/oct/31/2002204458/-1/-1/0/dib_ai_principles_primary_document.pdf)
 
 ## 4. Defense Innovation Board's AI Principles: Recommendations on the Ethical Use of Artificial Intelligence by the Department of Defense
 
