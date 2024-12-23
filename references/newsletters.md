@@ -42,47 +42,8 @@
 - **[AI Safety Community Newsletter](https://www.aisafety.community/newsletter)**  
   Updates from the AI safety community, including events, projects, and collaboration opportunities.
 
-- **[AI Safety Monitor](https://aisafetymonitor.org/)**  
-  Tracks developments in AI safety, including research breakthroughs and policy initiatives.
-
-- **[AI Safety Perspectives](https://aisafetyperspectives.substack.com/)**  
-  Features opinion pieces and essays on AI safety from various experts in the field.
-
-- **[AI Safety Brief](https://aisafetybrief.org/)**  
+- **[AI Weekly](https://joinaiweekly.substack.com)**  
   Concise summaries of the latest AI safety news and research.
 
-- **[AI Safety Forum Newsletter](https://www.aisafetyforum.org/newsletter)**  
-  Updates from the AI Safety Forum, including discussions, events, and resources.
-
-- **[AI Safety Network Newsletter](https://www.aisafetynetwork.org/newsletter)**  
+- **[AI Safety Network Newsletter](https://www.aisafetynetwork.org/news)**  
   News and updates from the AI Safety Network, focusing on collaboration and research.
-
-- **[AI Safety Journal](https://aisafetyjournal.org/)**  
-  Publishes articles and papers on AI safety topics, including technical and policy perspectives.
-
-- **[AI Safety Dispatch](https://aisafetydispatch.substack.com/)**  
-  Regular dispatches covering AI safety developments and community news.
-
-- **[AI Safety Observer](https://aisafetyobserver.org/)**  
-  Observes and reports on AI safety trends, challenges, and progress.
-
-- **[AI Safety Weekly](https://aisafetyweekly.substack.com/)**  
-  Weekly summaries of AI safety news, research, and discussions.
-
-- **[AI Safety Digest](https://aisafetydigest.org/)**  
-  Digest of AI safety-related content, including articles, papers, and news.
-
-- **[AI Safety Journal Club Newsletter](https://www.aisafetyjournalclub.org/newsletter)**  
-  Updates from the AI Safety Journal Club, including upcoming discussions and featured papers.
-
-- **[AI Safety Research Updates](https://aisafetyresearchupdates.org/)**  
-  Provides updates on recent AI safety research and publications.
-
-- **[AI Safety Community Digest](https://aisafetycommunitydigest.org/)**  
-  Digest of community activities, events, and discussions related to AI safety.
-
-- **[AI Safety Policy Brief](https://aisafetypolicybrief.org/)**  
-  Briefings on AI safety policy developments and regulatory news.
-
-- **[AI Safety Research Forum Newsletter](https://www.aisafetyresearchforum.org/newsletter)**  
-  Updates from the AI Safety Research Forum, including discussions and research 
