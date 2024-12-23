@@ -79,7 +79,7 @@ By integrating these elements into a cohesive process, the toolkit empowers orga
    - Conduct risk assessments and align your project with ethical and legal standards.
    - Monitor and iterate on your AI systems to ensure continuous compliance and improvement.
 
-For additional support and resources, visit the [Responsible AI Toolkit FAQ](https://rai.tradewindai.com/faq).
+For additional support and resources, visit the [Responsible AI Toolkit Support](https://rai.tradewindai.com/help).
 
 ---
 
