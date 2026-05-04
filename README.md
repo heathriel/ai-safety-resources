@@ -42,7 +42,7 @@ To get started with this repository:
 1. **Clone the repository**  
    Run the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ai-safety-resources.git
+   git clone https://github.com/heathriel/ai-safety-resources.git
    ```
 
 2. **Navigate to the repository directory**  
@@ -67,9 +67,9 @@ To get started with this repository:
 
 ## License & Contact
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](./LICENSE) file.
+This project is licensed under the MIT License. For more information, see the [MIT LICENSE](./LICENSE) file.
 
 For inquiries or contributions, please contact:
 
 **Heather Renze**  
-Email: [heather.renze@thedifferenceconsulting.com](mailto:heather.renze@thedifferenceconsulting.com)
+Email: [heather@fireworks.ai](mailto:heather@fireworks.ai)

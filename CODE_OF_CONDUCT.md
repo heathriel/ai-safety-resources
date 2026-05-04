@@ -40,7 +40,7 @@ This Code of Conduct applies within all project spaces and also applies when an 
 ## Enforcement
 
 ### Reporting:
-- Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **heather.renze@thedifferenceconsulting.com**.
+- Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **heather@fireworks.ai**.
 
 ### Procedure:
 - All complaints will be reviewed and investigated promptly and fairly.

@@ -4,6 +4,8 @@
 
 The Responsible Artificial Intelligence (RAI) Toolkit provides a centralized framework to ensure that AI systems are developed, deployed, and maintained responsibly. It serves as a comprehensive guide for aligning AI projects with responsible AI best practices, ethical principles, and the Department of Defense (DoD) AI Ethical Principles. The toolkit emphasizes accountability, transparency, and fairness while fostering innovation.
 
+> **Attribution**: This toolkit draws heavily from the [TradewindAI Responsible AI Toolkit](https://rai.tradewindai.com/), which provides a centralized process for aligning AI projects with responsible AI best practices and the DoD AI Ethical Principles.
+
 The RAI Toolkit is designed with an intuitive workflow that guides users through:
 - **Tailorable Assessments**: Flexible evaluations that adapt to the specific goals and constraints of AI projects.
 - **Modular Tools**: A suite of resources that address various aspects of AI development, such as bias detection, data privacy, security, and performance monitoring.
@@ -25,7 +27,7 @@ By integrating these elements into a cohesive process, the toolkit empowers orga
    - **Bias Detection**: Evaluate datasets and models for demographic or systemic biases.
 
 ### 3. **Modular Tools**
-   - **Bias and Fairness Tools**: Integrates AI fairness libraries like AIF360 and Microsoft Fairlearn.
+   - **Bias and Fairness Tools**: Integrates AI fairness libraries like IBM's [AIF360](https://aif360.res.ibm.com/) and Microsoft Fairlearn.
    - **Explainability Frameworks**: Supports tools such as SHAP and LIME for model interpretability.
    - **Privacy-Enhancing Technologies**: Offers guidance on anonymization and differential privacy techniques.
 
@@ -58,36 +60,8 @@ By integrating these elements into a cohesive process, the toolkit empowers orga
 
 ### 2. **Public Sector Deployments**
    - **Scenario**: An AI-powered fraud detection system in public services.
-   - **Toolkit Application**: Apply explainability frameworks to ensure that decisions can be understood and justified, and audit logs to maintain accountability.
+   - **Toolkit Application**: Apply privacy-enhancing technologies to protect citizen data, and maintain audit logs for transparency and accountability.
 
-### 3. **Critical Infrastructure**
-   - **Scenario**: AI systems for traffic management and urban planning.
-   - **Toolkit Application**: Leverage modular tools for risk assessment and privacy enhancements to maintain public trust.
-
----
-
-## Getting Started
-
-1. **View the Toolkit**  
-   Access the toolkit from the official [TradewindAI Responsible AI Toolkit](https://rai.tradewindai.com/).
-
-2. **Set Up Your Workflow**  
-   - Review the included assessments, tools, and templates.
-   - Tailor the toolkit components to your specific project needs.
-
-3. **Begin Your Responsible AI Journey**  
-   - Conduct risk assessments and align your project with ethical and legal standards.
-   - Monitor and iterate on your AI systems to ensure continuous compliance and improvement.
-
-For additional support and resources, visit the [Responsible AI Toolkit Support](https://rai.tradewindai.com/help).
-
----
-
-## Future Directions
-
-The RAI Toolkit is continuously evolving to address emerging challenges and opportunities in AI ethics and governance. Future updates aim to:
-- Expand integration with cutting-edge AI fairness and explainability tools.
-- Include sector-specific modules for healthcare, education, and other critical domains.
-- Enhance user experience with automated workflows and real-time feedback systems.
-
-By leveraging the RAI Toolkit, organizations can confidently navigate the complexities of responsible AI implementation while fostering innovation and public trust.
+### 3. **Healthcare AI Systems**
+   - **Scenario**: A diagnostic AI system used in government healthcare facilities.
+   - **Toolkit Application**: Conduct thorough risk assessments, ensure model explainability, and implement continuous monitoring for safety.

@@ -55,5 +55,17 @@
 ---
 
 ## 10. Our Approach to AI Safety by OpenAI
-- **Description**: An overview of OpenAI’s practical approach to addressing AI safety concerns, including research on effective mitigations and alignment techniques.
-- **Link**: [OpenAI’s Approach to AI Safety](https://openai.com/index/our-approach-to-ai-safety/)
+- **Description**: An overview of OpenAI's practical approach to addressing AI safety concerns, including research on effective mitigations and alignment techniques.
+- **Link**: [OpenAI's Approach to AI Safety](https://openai.com/index/our-approach-to-ai-safety/)
+
+---
+
+## 11. Anthropic's Responsible Scaling Policy (2024)
+- **Description**: Anthropic's framework for assessing and mitigating catastrophic risks from increasingly capable AI systems, including safety standards and deployment protocols.
+- **Link**: [Anthropic RSP](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)
+
+---
+
+## 12. Partnership on AI (PAI)
+- **Description**: A global nonprofit partnership of academic, civil society, industry, and media organizations working to ensure AI benefits people and society.
+- **Link**: [Partnership on AI](https://partnershiponai.org/)

@@ -9,7 +9,7 @@ Thank you for considering contributing to the AI Safety Resources repository. Yo
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/yourusername/ai-safety-resources.git
+   git clone https://github.com/heathriel/ai-safety-resources.git
    ```
 
 3. **Create a Branch**
