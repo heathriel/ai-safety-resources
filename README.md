@@ -21,17 +21,35 @@ This repository provides a comprehensive set of resources, including academic pa
 
 ## Directory Structure
 
-- **`paper/`**  
-  Contains academic publications related to AI safety.
-
-- **`references/`**  
-  Includes external resources such as whitepapers, frameworks, and other relevant materials.
+- **`best-practices/`**  
+  Guidelines and checklists for ethical AI deployment, model governance, and LLM security.
+  - Ethical AI Checklist
+  - Responsible AI Toolkit
+  - Model Governance Guidelines
+  - LLM Security Guide — threat taxonomy and defense-in-depth for large language models
 
 - **`evaluation-scripts/`**  
-  Provides scripts and notebooks for evaluating AI models, including data preprocessing, bias detection, and adversarial testing.
+  Scripts and notebooks for evaluating AI models, including bias detection and adversarial testing.
+  - Bias Detection Demo (runnable with synthetic dataset)
+  - Prompt Adversary Test
+  - Data Preprocessing Script
 
-- **`best-practices/`**  
-  Offers guidelines and checklists for ethical AI deployment and model governance.
+- **`templates/`**  
+  Reusable templates for AI governance documentation.
+  - Model Card Template — aligned with MLCommons, NIST AI RMF, and EU AI Act
+  - Risk Assessment Matrix — structured risk register with NIST AI RMF mapping
+
+- **`case-studies/`**  
+  Real-world AI incident analyses for training and risk assessment.
+  - Amazon Recruiting Tool (bias), Microsoft Tay (jailbreaking), Air Canada Chatbot (hallucination)
+  - Clearview AI (privacy), COMPAS Recidivism (fairness tradeoffs), GPT-3 Medical (crisis escalation)
+
+- **`paper/`**  
+  Academic publications related to AI safety.
+
+- **`references/`**  
+  External resources including whitepapers, frameworks, courses, and newsletters.
+  - Updated with EU AI Act 2024, ISO/IEC 42001, and Anthropic RSP
 
 ---
 
@@ -58,10 +76,12 @@ To get started with this repository:
    ```
 
 4. **Explore the resources**  
-   - Review the papers in the `paper/` directory.
-   - Consult the reference materials in the `references/` directory.
-   - Execute the evaluation scripts in the `evaluation-scripts/` directory.
-   - Follow the guidelines in the `best-practices/` directory.
+   - Review the real-world incident analyses in `case-studies/` for training and risk planning.
+   - Use templates in `templates/` to document your models and assess risks.
+   - Execute the evaluation scripts in `evaluation-scripts/` for bias detection and adversarial testing.
+   - Follow the guidelines in `best-practices/` for ethical deployment and LLM security.
+   - Consult reference materials in `references/` for frameworks, whitepapers, and courses.
+   - Review academic publications in `paper/`.
 
 ---
 
